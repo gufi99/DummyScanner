@@ -75,8 +75,8 @@ Copy
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dummy-scanner.git
-   cd dummy-scanner
+   git clone https://github.com/gufi99/DummyScanner.git
+   cd DummyScanner
 Install dependencies:
 bash
 Copy
