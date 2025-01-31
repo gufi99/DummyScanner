@@ -22,15 +22,7 @@ beautifulsoup4
 
 requests 
 
-lxml 
-
-Installation: 
-
-Clone the repository: `` git clone https://github.com/gufi99/DummyScanner  
-
-cd dummy-scanner 
-
- 
+lxml  
 
 Run the tool: 
 
